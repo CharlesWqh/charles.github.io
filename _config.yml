@@ -12,7 +12,8 @@ facebook_username:  StartBootstrap
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   UA-49627206-1 # out your google-analytics code
+ga_domain: huangxuan.me
 
 # Build settings
 markdown:           kramdown
